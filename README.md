@@ -61,5 +61,9 @@ python manage.py runserver
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request.
 
+## Screenshots
+
+![Project Screenshot](https://github.com/devanshptl/django_project_2/blob/main/django_project_2.png)
+
 ## Thank You !
 
