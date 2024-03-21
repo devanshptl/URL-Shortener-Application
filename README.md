@@ -12,9 +12,10 @@ This Django project is designed to convert long URLs into shorter ones for impro
 ## Installation
 
 1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/devanshptl/django_project_2.git ```
+   
+    ```bash
+    git clone https://github.com/devanshptl/django_project_2.git
+   ```
 
 2. Navigate into the project directory:
 
